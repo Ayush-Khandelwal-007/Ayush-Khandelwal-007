@@ -34,7 +34,7 @@ Practice, hardwork, dedication and smartwork is the key to everyone's successðŸ˜
 
 <img src="images/border.gif" width="1100px" height="10px"></h2>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ayush-Khandelwal-007&theme=dracula&column=7&margin-w=10&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
+<img src="https://github-profile-trophy.vercel.app/?username=Ayush-Khandelwal-007&theme=dracula&column=8&margin-w=10&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
 
 <img src="images/border.gif" width="1100px" height="10px">
 
