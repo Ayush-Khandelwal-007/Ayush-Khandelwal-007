@@ -34,7 +34,7 @@ Practice, hardwork, dedication and smartwork is the key to everyone's successðŸ˜
 <img src="images/github.png" width="50px">&nbsp; &nbsp; &nbsp;
 <img src="images/flask.png" width="50px">&nbsp; &nbsp; &nbsp;
 <img src="images/heroku.png" width="50px">&nbsp; &nbsp; &nbsp;
-<img src="images/html.gif" width="50px">&nbsp; &nbsp; &nbsp;
+<img src="images/html.gif" width="80px">&nbsp; &nbsp; &nbsp;
 <img src="images/css.jpg" width="50px">&nbsp; &nbsp; &nbsp;
 <img src="images/javascript.gif" width="50px">&nbsp; &nbsp; &nbsp;
 <img src="images/bootstrap.jpg" width="50px">&nbsp; &nbsp; &nbsp;
