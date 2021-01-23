@@ -28,8 +28,8 @@ Practice, hardwork, dedication and smartwork is the key to everyone's successðŸ˜
 
 ## Languages and Tools:
                                                                                    
-<img src="images/c.png" width="50px">&nbsp; &nbsp; &nbsp;
-<img src="images/cpp.png" width="50px">&nbsp; &nbsp; &nbsp;
+<img src="images/c.png" height="50px">&nbsp; &nbsp; &nbsp;
+<img src="images/cpp.png" height="50px">&nbsp; &nbsp; &nbsp;
 <img src="images/python.gif" height="50px">&nbsp; &nbsp; &nbsp;
 <img src="images/github.png" height="50px">&nbsp; &nbsp; &nbsp;
 <img src="images/flask.png" height="50px">&nbsp; &nbsp; &nbsp;
