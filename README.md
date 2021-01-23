@@ -34,8 +34,8 @@ Practice, hardwork, dedication and smartwork is the key to everyone's successðŸ˜
 <img src="images/github.png" height="50px">&nbsp; &nbsp; &nbsp;
 <img src="images/flask.png" height="50px">&nbsp; &nbsp; &nbsp;
 <img src="images/heroku.png" height="50px">&nbsp; &nbsp; &nbsp;
-<img src="images/html.gif" height="50px">&nbsp; &nbsp; &nbsp;
-<img src="images/css.jpg" height="50px">&nbsp; &nbsp; &nbsp;
+<img src="images/html.png" height="50px">&nbsp; &nbsp; &nbsp;
+<img src="images/css.png" height="50px">&nbsp; &nbsp; &nbsp;
 <img src="images/javascript.gif" height="50px">&nbsp; &nbsp; &nbsp;
 <img src="images/bootstrap.jpg" height="50px">&nbsp; &nbsp; &nbsp;
 <img src="images/webpack.gif" height="50px">&nbsp; &nbsp; &nbsp;
@@ -47,10 +47,10 @@ Practice, hardwork, dedication and smartwork is the key to everyone's successðŸ˜
 <img src="images/border.gif" width="1100px" height="10px"></h2>
 
 ## Contact Me <br>
-[<img align="left" alt="https://www.linkedin.com/in/ayush-khandelwal-741a88194/" height="50px" src="images/linkedin.gif" />][linkedin]&nbsp; 
+[<img align="left" alt="https://www.linkedin.com/in/ayush-khandelwal-741a88194/" height="50" src="images/linkedin.png" />][linkedin]&nbsp;&nbsp;&nbsp;
 [<img src="images/github.png" height="50px">][github]&nbsp; &nbsp; &nbsp;
-[<img align="left" alt="https://www.instagram.com/lens_ified/" height="50px" src="images/insta.gif" />][instagram]&nbsp; &nbsp; &nbsp;
-[<img align="left" alt="https://www.facebook.com/ayush.khandelwal.92317" height="50px" src="images/facebook.gif" />][facebook]&nbsp; &nbsp; &nbsp;
+[<img align="left" alt="https://www.instagram.com/lens_ified/" height="50px" src="images/insta.png" />][instagram]&nbsp; &nbsp; &nbsp;
+[<img align="left" alt="https://www.facebook.com/ayush.khandelwal.92317" height="50px" src="images/facebook.png" />][facebook]&nbsp; &nbsp; &nbsp;
 <br/>
 
 
