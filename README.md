@@ -16,7 +16,7 @@ Practice, hardwork, dedication and smartwork is the key to everyone's success�
 <img align="right" width="255" alt="" src="images/dev.gif" />
 
 ### Talking about Personal Stuffs:
-- 🛠 I’m currently working on Reat Pojects.
+- 🛠 I’m currently working on React Pojects.
 - 🎮 I love to play with JQuery animations.
 - 📷 A vivid landscape wakes up photographer in me.
 - 👾 All of my projects are available on Github.
@@ -30,17 +30,17 @@ Practice, hardwork, dedication and smartwork is the key to everyone's success�
                                                                                    
 <img src="images/c.png" width="50px">&nbsp; &nbsp; &nbsp;
 <img src="images/cpp.png" width="50px">&nbsp; &nbsp; &nbsp;
-<img src="images/python.gif" width="50px">&nbsp; &nbsp; &nbsp;
-<img src="images/github.png" width="50px">&nbsp; &nbsp; &nbsp;
-<img src="images/flask.png" width="50px">&nbsp; &nbsp; &nbsp;
-<img src="images/heroku.png" width="50px">&nbsp; &nbsp; &nbsp;
-<img src="images/html.gif" width="80px">&nbsp; &nbsp; &nbsp;
-<img src="images/css.jpg" width="50px">&nbsp; &nbsp; &nbsp;
-<img src="images/javascript.gif" width="50px">&nbsp; &nbsp; &nbsp;
-<img src="images/bootstrap.jpg" width="50px">&nbsp; &nbsp; &nbsp;
-<img src="images/webpack.gif" width="50px">&nbsp; &nbsp; &nbsp;
-<img src="images/nodeJS.gif" width="50px">&nbsp; &nbsp; &nbsp;
-<img src="images/java.png" width="50px">&nbsp; &nbsp; &nbsp;
+<img src="images/python.gif" height="50px">&nbsp; &nbsp; &nbsp;
+<img src="images/github.png" height="50px">&nbsp; &nbsp; &nbsp;
+<img src="images/flask.png" height="50px">&nbsp; &nbsp; &nbsp;
+<img src="images/heroku.png" height="50px">&nbsp; &nbsp; &nbsp;
+<img src="images/html.gif" height="50px">&nbsp; &nbsp; &nbsp;
+<img src="images/css.jpg" height="50px">&nbsp; &nbsp; &nbsp;
+<img src="images/javascript.gif" height="50px">&nbsp; &nbsp; &nbsp;
+<img src="images/bootstrap.jpg" height="50px">&nbsp; &nbsp; &nbsp;
+<img src="images/webpack.gif" height="50px">&nbsp; &nbsp; &nbsp;
+<img src="images/nodeJS.gif" height="50px">&nbsp; &nbsp; &nbsp;
+<img src="images/java.png" height="50px">&nbsp; &nbsp; &nbsp;
 
 
 
