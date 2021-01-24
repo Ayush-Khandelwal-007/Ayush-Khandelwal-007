@@ -48,7 +48,7 @@ Practice, hardwork, dedication and smartwork is the key to everyone's successðŸ˜
 
 ## Contact Me <br>
 [<img align="left" alt="https://www.linkedin.com/in/ayush-khandelwal-741a88194/" height="50" src="images/linkedin.png" />][linkedin]&nbsp;&nbsp;&nbsp;
-[<img src="images/github.png" height="50px">][github]&nbsp; &nbsp; &nbsp;
+[<img align="left" alt="https://github.com/Ayush-Khandelwal-007/" src="images/github.png" height="50px">][github]&nbsp; &nbsp; &nbsp;
 [<img align="left" alt="https://www.instagram.com/lens_ified/" height="50px" src="images/insta.png" />][instagram]&nbsp; &nbsp; &nbsp;
 [<img align="left" alt="https://www.facebook.com/ayush.khandelwal.92317" height="50px" src="images/facebook.png" />][facebook]&nbsp; &nbsp; &nbsp;
 <br/>
