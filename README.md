@@ -18,6 +18,7 @@ Practice, hardwork, dedication and smartwork is the key to everyone's success�
 ### Talking about Personal Stuffs:
 - 🛠 I’m currently working on React Pojects.
 - 🎮 I love to play with CSS.
+- 📖 Try to learn out of all.
 - 📷 A vivid landscape wakes up photographer in me.
 - 👾 All of my projects are available on Github.
 - 📫 How to reach me: ayushkhandelwal3217@gmail.com
