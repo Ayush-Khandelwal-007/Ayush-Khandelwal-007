@@ -16,7 +16,8 @@ Practice, hardwork, dedication and smartwork is the key to everyone's success�
 
 ### Talking about Personal Stuffs:
 - 🛠 I’m currently working on React Pojects.
-- 🎮 I love to play with JQuery animations.
+- 🎮 I love to play with CSS.
+- 📖 Try to learn out of all.
 - 📷 A vivid landscape wakes up photographer in me.
 - 👾 All of my projects are available on Github.
 - 📫 How to reach me: ayushkhandelwal3217@gmail.com
@@ -57,7 +58,7 @@ Practice, hardwork, dedication and smartwork is the key to everyone's success�
 
 ## Contact Me <br>
 [<img align="left" alt="https://www.linkedin.com/in/ayush-khandelwal-741a88194/" height="50" src="images/linkedin.png" />][linkedin]&nbsp;&nbsp;&nbsp;
-[<img align="left"  src="images/github.png" height="50px">][github]&nbsp; &nbsp; &nbsp;
+[<img align="left" alt="https://github.com/Ayush-Khandelwal-007/" src="images/github.png" height="50px">][github]&nbsp; &nbsp; &nbsp;
 [<img align="left" alt="https://www.instagram.com/lens_ified/" height="50px" src="images/insta.png" />][instagram]&nbsp; &nbsp; &nbsp;
 [<img align="left" alt="https://www.facebook.com/ayush.khandelwal.92317" height="50px" src="images/facebook.png" />][facebook]&nbsp; &nbsp; &nbsp;
 <br/>
