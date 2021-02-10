@@ -12,7 +12,6 @@ Practice, hardwork, dedication and smartwork is the key to everyone's successðŸ˜
 
 <img src="images/border.gif" width="1100px" height="10px">
 
-
 <img align="right" width="255" alt="" src="images/dev.gif" />
 
 ### Talking about Personal Stuffs:
@@ -22,7 +21,17 @@ Practice, hardwork, dedication and smartwork is the key to everyone's successðŸ˜
 - ðŸ‘¾ All of my projects are available on Github.
 - ðŸ“« How to reach me: ayushkhandelwal3217@gmail.com
 
+<img src="images/border.gif" width="1100px" height="10px">
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush-Khandelwal-007&show_icons=true&custom_title=My GitHub Stats&count_private=true&theme=dracula" alt="subeshb1" /></p>
+
+<img src="images/border.gif" width="1100px" height="10px"> 
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ayush-Khandelwal-007&theme=dracula&column=6&margin-w=10&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
+
+<img src="images/border.gif" width="1100px" height="10px">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Khandelwal-007&layout=compact&theme=dracula" />
 
 <img src="images/border.gif" width="1100px" height="10px"></h2>
 
@@ -48,7 +57,7 @@ Practice, hardwork, dedication and smartwork is the key to everyone's successðŸ˜
 
 ## Contact Me <br>
 [<img align="left" alt="https://www.linkedin.com/in/ayush-khandelwal-741a88194/" height="50" src="images/linkedin.png" />][linkedin]&nbsp;&nbsp;&nbsp;
-[<img src="images/github.png" height="50px">][github]&nbsp; &nbsp; &nbsp;
+[<img align="left"  src="images/github.png" height="50px">][github]&nbsp; &nbsp; &nbsp;
 [<img align="left" alt="https://www.instagram.com/lens_ified/" height="50px" src="images/insta.png" />][instagram]&nbsp; &nbsp; &nbsp;
 [<img align="left" alt="https://www.facebook.com/ayush.khandelwal.92317" height="50px" src="images/facebook.png" />][facebook]&nbsp; &nbsp; &nbsp;
 <br/>
