@@ -1,5 +1,5 @@
 # Hello !!! , [I'm Ayush Khandelwal!](https://www.linkedin.com/in/ayush-khandelwal-741a88194/) &nbsp; &nbsp; <img src=images/hello.gif height="40px">
-<img src="https://giphy.com/gifs/fire-divider-voidgirl79-FJIfNBIqTqrnnttaOa" width="1200px"></h2>
+<img src="images/huiii.gif" width="1200px"></h2>
 
 ## So. This is my profile🥱 💁‍♂️ &nbsp; &nbsp; &nbsp;<img src="images/smile.gif" width="35px">
 
