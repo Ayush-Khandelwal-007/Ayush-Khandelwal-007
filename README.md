@@ -32,7 +32,8 @@ Practice, hardwork, dedication and smartwork is the key to everyone's successðŸ˜
 <img src="https://activity-graph.herokuapp.com/graph?username=Ayush-Khandelwal-007&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
 
 ---
-## Languages:                                                                                   
+## Languages:    
+<p align="center">                                                                               
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
@@ -45,9 +46,11 @@ Practice, hardwork, dedication and smartwork is the key to everyone's successðŸ˜
 <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>
 <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
 <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
+</p>
 
 ---
 ## Tools:
+<p align="center">
 <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D"/>
@@ -63,6 +66,7 @@ Practice, hardwork, dedication and smartwork is the key to everyone's successðŸ˜
 <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
 
 ---
 ## Contact Me
@@ -72,10 +76,9 @@ Practice, hardwork, dedication and smartwork is the key to everyone's successðŸ˜
 [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>][facebook]&nbsp; &nbsp; &nbsp;
 <br/>
 
-
-
-
 [linkedin]:https://www.linkedin.com/in/ayush-khandelwal-741a88194/
 [github]:https://github.com/Ayush-Khandelwal-007/
 [instagram]:https://www.instagram.com/lens_ified/
 [facebook]:https://www.facebook.com/ayush.khandelwal.92317
+
+---
