@@ -24,13 +24,13 @@ Practice, hardwork, dedication and smartwork is the key to everyone's successðŸ˜
 
 <img src="images/border.gif" width="1100px" height="10px">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush-Khandelwal-007&show_icons=true&custom_title=My GitHub Stats&count_private=true&theme=dracula" width="100%" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush-Khandelwal-007&show_icons=true&custom_title=My GitHub Stats&count_private=true&theme=dracula" /></p>
 
 <img src="images/border.gif" width="1100px" height="10px"> 
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-Khandelwal-007&hide_border=true&theme=radical" width="48%" height="160px">
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-Khandelwal-007&hide_border=true&theme=radical" width="45%" height="160px">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Khandelwal-007&layout=compact&theme=dracula" width="48%" height="160px"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Khandelwal-007&layout=compact&theme=dracula" width="45%" height="160px"/>
 
 <img src="images/border.gif" width="1100px" height="10px"></h2>
 
