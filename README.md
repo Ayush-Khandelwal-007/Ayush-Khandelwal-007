@@ -15,7 +15,7 @@ Practice, hardwork, dedication and smartwork is the key to everyone's success�
 <img align="right" width="255" alt="" src="images/dev.gif" />
 
 ### Talking about Personal Stuffs:
-- 🛠 I’m currently working on React Pojects.
+- 🛠 I’m currently trying to contribute to Open Sources.
 - 🎮 I love to play with CSS.
 - 📖 Try to learn out of all.
 - 📷 A vivid landscape wakes up photographer in me.
