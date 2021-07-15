@@ -21,13 +21,13 @@ Practice, hardwork, dedication and smartwork is the key to everyone's successðŸ˜
 
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush-Khandelwal-007&show_icons=true&custom_title=My GitHub Stats&count_private=true&theme=dracula" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush-Khandelwal-007&show_icons=true&custom_title=GitHub Stats&count_private=true&theme=dracula" width="44%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ayush-Khandelwal-007&theme=dracula&column=4&margin-w=10&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)" width="44%" >
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-Khandelwal-007&hide_border=true&theme=radical" width="44%" height="160px">
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Khandelwal-007&layout=compact&theme=dracula" width="44%" height="160px"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ayush-Khandelwal-007&theme=dracula&column=8&margin-w=10&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Ayush-Khandelwal-007&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
 
