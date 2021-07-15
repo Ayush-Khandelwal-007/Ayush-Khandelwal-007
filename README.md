@@ -21,16 +21,16 @@ Practice, hardwork, dedication and smartwork is the key to everyone's successðŸ˜
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Ayush-Khandelwal-007&show_icons=true&custom_title=GitHub Stats&count_private=true&theme=dracula" width="44%" height="160px"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Ayush-Khandelwal-007&show_icons=true&custom_title=GitHub Stats&count_private=true&theme=dracula" width="49%" height="160px" style="margin-top:20px"/>
 
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=Ayush-Khandelwal-007&theme=dracula&column=4&margin-w=10&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)" width="44%" height="160px">
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=Ayush-Khandelwal-007&theme=dracula&column=4&margin-w=10&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)" width="49%" height="160px" style="margin-top:20px"/>
 
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-Khandelwal-007&hide_border=true&theme=radical" width="44%" height="160px">
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-Khandelwal-007&hide_border=true&theme=radical" width="49%" height="160px" style="margin-top:40px"/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Khandelwal-007&layout=compact&theme=dracula" width="44%" height="160px"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Khandelwal-007&layout=compact&theme=dracula" width="49%" height="160px" style="margin-top:40px"/>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Ayush-Khandelwal-007&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
+<img src="https://activity-graph.herokuapp.com/graph?username=Ayush-Khandelwal-007&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" style="margin-top:40px"/>
 
 ---
 ## Languages:    
