@@ -4,7 +4,7 @@
 ## So. This is me🥱 💁‍♂️ 
 
 
-Pre Final Year Student pursuing Bachelors in Information Technology 🎓 from Indian Institute of Information Technology Allahabad 🏛 who is an ardent learner, a passionate developer🖥️,competative coder💡 and a great admirer of nature in the quest to dig interesting algorithms and patterns inspired by nature🌿. Have a keen interest in the latest and upcoming technologies👨‍💻 , cyber security🕸️  and their impact in our daily lives🤓.
+Final Year Student pursuing Bachelors in Information Technology 🎓 from Indian Institute of Information Technology Allahabad 🏛 who is an ardent learner, a passionate developer🖥️,competative coder💡 and a great admirer of nature in the quest to dig interesting algorithms and patterns inspired by nature🌿. Have a keen interest in the latest and upcoming technologies👨‍💻 , cyber security🕸️  and their impact in our daily lives🤓.
 
 Currently practising/learning........
 
@@ -12,7 +12,7 @@ Practice, hardwork, dedication and smartwork is the key to everyone's success�
 
 
 ### Talking about Personal Stuffs:
-- 🛠 I’m currently trying to contribute to Open Sources.
+- 🛠 I’m currently Working Remotely.
 - 🎮 I love to play with CSS.
 - 📖 Try to learn out of all.
 - 📷 A vivid landscape wakes up photographer in me.
