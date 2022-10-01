@@ -6,7 +6,7 @@
 
 Final Year Student pursuing Bachelors in Information Technology 🎓 from Indian Institute of Information Technology Allahabad 🏛 who is an ardent learner, a passionate developer🖥️,competative coder💡 and a great admirer of nature in the quest to dig interesting algorithms and patterns inspired by nature🌿. Have a keen interest in the latest and upcoming technologies👨‍💻 , cyber security🕸️  and their impact in our daily lives🤓.
 
-Currently practising/learning........
+Currently practicing/learning........
 
 Practice, hardwork, dedication and smartwork is the key to everyone's success😇.
 
